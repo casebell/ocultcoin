@@ -1,0 +1,9 @@
+Building OcultCoin
+
+See doc/readme-qt.rst for instructions on building OcultCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of OcultCoin.
+
+See doc/build-*.txt for instructions on building OcultCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of OcultCoin.
