@@ -13,3 +13,10 @@ obj-test/*.P
 obj/build.h
 leveldb/libleveldb.a
 leveldb/libmemenv.a
+
+## generic files to ignore
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
